@@ -11,7 +11,6 @@ excerpt: "Teaching and mentoring in communication, research methods, public heal
 
 My teaching philosophy centers on inclusive, student-centered learning environments that combine clear structure with meaningful practice. I help students build foundations in the concepts, theories, and mechanisms that explain how social, behavioral, and communication factors shape health, then apply those foundations to consequential public health decisions.
 
-<p class="button-row"><a class="btn btn--primary" href="{{ '/files/Di_Pei_Teaching_Statement_2026.docx' | relative_url }}">Download teaching statement</a></p>
 
 ## Teaching approach
 
