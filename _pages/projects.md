@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Selected projects in tobacco regulation, message design, health equity, and global public health."
 ---
 
-At Georgia State University, I contribute as a postdoctoral researcher to several NIH-funded projects. My work spans formative research, message and measure development, protocol implementation, student training, data management and analysis, and dissemination. I also lead the CDC Foundation-funded study as principal investigator. The remaining projects represent related collaborative and earlier research.
+At Georgia State University, I contribute as a postdoctoral researcher to several NIH-funded projects. My work spans formative research, message and measure development, protocol implementation, student training, data management and analysis, and dissemination. I also lead a CDC Foundation-funded study as principal investigator. The remaining projects represent related collaborative and earlier research.
 
 # Selected projects
 
