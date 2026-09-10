@@ -2,17 +2,14 @@
 permalink: /
 title: "Public Health and Health Communication"
 author_profile: true
-excerpt: "Strategic communication for tobacco control, health equity, and population health."
 classes: wide
 ---
 
-<p class="page-kicker">Public Health + Health Communication</p>
-
-# Strategic communication for tobacco control, health equity, and population health
+<p class="page-kicker">Strategic communication for tobacco control, health equity, and population health</p>
 
 I study how people encounter, interpret, and respond to health messages, and how those responses shape tobacco-related beliefs, motivation, behavior, and support for policy. My research combines communication theory, behavioral science, and public health methods, with particular attention to populations that experience disproportionate tobacco-related harms.
 
-<p class="button-row"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> <a class="btn btn--inverse" href="{{ '/files/Di_Pei_CV_August_2026.docx' | relative_url }}">Download CV</a></p>
+<p class="button-row"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> 
 
 ## One research program, two disciplinary lenses
 
@@ -29,25 +26,42 @@ I study how people encounter, interpret, and respond to health messages, and how
   </section>
 </div>
 
-<div class="callout"><strong>Bridging question:</strong> How can communication help effective tobacco-control policies and interventions translate into meaningful, equitable changes in health?</div>
+<div class="callout"><strong>Bridging question:</strong> How can communication make tobacco-control policies and interventions more effective for populations disproportionately affected by tobacco use?</div>
 
 ## Conceptual research framework
 
 <ol class="process-grid" aria-label="Conceptual research framework">
-  <li><span>01</span><strong>Message and policy context</strong><small>Theme, framing, channel, product information, and regulatory environment</small></li>
-  <li><span>02</span><strong>Message processing</strong><small>Attention, interpretation, cognitive response, emotion, and reactance</small></li>
+  <li><span>01</span><strong>Message and policy context</strong><small> Message theme, framing, source, format, and delivery channel, product claims, and regulatory environment</small></li>
+  <li><span>02</span><strong>Message processing</strong><small>Attention, interpretation, elaboration, cognitive and emotional responses, and reactance</small></li>
   <li><span>03</span><strong>Motivation and behavior</strong><small>Perceived harm, quit motivation, cessation behavior, and policy support</small></li>
   <li><span>04</span><strong>Population impact</strong><small>Reduced tobacco harm and reduced disparities across priority populations</small></li>
 </ol>
 
-<p class="figure-note">Health equity is a cross-cutting lens, including serious psychological distress, socioeconomic disadvantage, young adults, and global and cultural contexts. This framework summarizes the logic of the research program. It is not an estimated causal pathway.</p>
+<p class="figure-note">Health equity is a cross-cutting lens, including serious psychological distress, socioeconomic disadvantage, young adults, and global and cultural contexts.</p>
 
 ## Current research
 
 <div class="card-grid card-grid--three">
-  <section class="site-card"><p class="card-label">Reduced nicotine policy</p><h3>NICER and very low nicotine cigarette communication</h3><p>Examining how communication can reduce nicotine-related misperceptions and support quitting when reduced-nicotine policies are implemented in real-world information environments.</p></section>
-  <section class="site-card"><p class="card-label">Digital intervention development</p><h3>Menthol smoking cessation and flavored tobacco communication</h3><p>Developing and evaluating digital content through co-creation, eye-tracking, choice tasks, and randomized testing, with particular attention to adults who smoke menthol cigarettes and with low socioeconomic status.</p></section>
-  <section class="site-card"><p class="card-label">Principal Investigator</p><h3>Anti-smoking messages among young adults in China</h3><p>Leading a multi-wave randomized experiment with more than 1,500 young adults to test video themes and examine cognitive, emotional, and behavioral responses over time.</p></section>
+  <section class="site-card">
+    <p class="card-label">Reduced nicotine policy</p>
+    <h3>Communicating about Nicotine and Differential Risks of Tobacco Products in Priority Populations</h3>
+    <p class="card-meta">NIH/NCI &amp; FDA Center for Tobacco Products &middot; R01CA239308 &middot; PI: Lucy Popova</p>
+    <p>Examining how communication can reduce nicotine-related misperceptions and support quitting among priority populations during implementation of a reduced nicotine policy in real-world information environments.</p>
+  </section>
+
+  <section class="site-card">
+    <p class="card-label">Digital intervention development</p>
+    <h3>Behavioral Intervention to Mitigate Nicotine Addiction in Digital Environments</h3>
+    <p class="card-meta">NIH/NCI &middot; R01CA289552 &middot; PI: Lucy Popova</p>
+    <p>Developing and evaluating digital tobacco cessation content through co-creation, eye-tracking, discrete choice experiment, and randomized controlled trial, with a focus on adults with low socioeconomic status who smoke menthol products.</p>
+  </section>
+
+  <section class="site-card">
+    <p class="card-label">Global tobacco communication</p>
+    <h3>Anti-smoking messages among young adults in China</h3>
+    <p class="card-meta">CDC Foundation &middot; PI: Di Pei</p>
+    <p>Leading a multi-wave randomized experiment with 1,541 young adults to compare five anti-smoking video themes and examine cognitive, emotional, and behavioral responses over time.</p>
+  </section>
 </div>
 
 ## Building evidence from complementary methods
@@ -60,6 +74,6 @@ I study how people encounter, interpret, and respond to health messages, and how
 
 ## Future directions
 
-Future work extends the same public health and communication framework into communication for people with mental health conditions, AI-assisted behavioral intervention development, digital campaigns for smoking prevention and cessation, and research on modified-risk claims. AI methods are proposed future tools that will be evaluated against theory, human judgment, cultural sensitivity, safety, and behavioral evidence.
+My future research will build on my tobacco communication work and experience in multidisciplinary projects spanning health communication, behavioral science, population health, and tobacco policy. I plan to use evidence about risk perceptions, psychological and social processes, and patterns of tobacco use to develop and test messages and behavioral interventions, including AI-assisted approaches, for eventual use in community and policy settings.
 
 <p><a href="{{ '/research/#future-research-directions' | relative_url }}">Read the future research agenda</a></p>
