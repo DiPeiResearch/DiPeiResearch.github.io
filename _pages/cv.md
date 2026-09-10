@@ -1,15 +1,11 @@
 ---
-permalink: /cv/
+permalink: /CV/
 title: "CV"
 author_profile: true
 excerpt: "Academic preparation, appointments, grants, honors, service, and methodological training."
 ---
 
-<p class="page-kicker">Curriculum Vitae</p>
-
-# Selected CV
-
-<p class="button-row"><a class="btn btn--primary" href="{{ '/files/Di_Pei_CV_August_2026.docx' | relative_url }}">Download full CV</a> <a class="btn btn--inverse" href="mailto:dpei@gsu.edu">Email</a></p>
+<p class="page-kicker">CURRICULUM VITAE</p>
 
 ## Academic appointment
 
@@ -19,7 +15,7 @@ School of Public Health, Georgia State University<br>
 Mentor: Lucy Popova
 
 **2026 to 2027**<br>
-Adjunct Faculty, School of Public Health, Georgia State University<br>
+Scheduled Adjunct Faculty, School of Public Health, Georgia State University<br>
 Scheduled instructor for Health Communication, Spring 2027
 
 **2020 to 2021**<br>
@@ -63,7 +59,7 @@ Graduate Research Assistant, Department of Communication, George Mason Universit
 
 ## Teaching & mentoring
 
-- Instructor, PHPB 8255: Health Communication, Georgia State University, Spring 2027
+- Scheduled Instructor, PHPB 8255: Health Communication, Georgia State University, Spring 2027
 - Applied Practice Experience Preceptor, Georgia State University, Fall 2024 to Spring 2027
 - Instructor of Record, COMM 101: Fundamentals of Communication, George Mason University, Spring 2016 to Spring 2018
 
