@@ -19,7 +19,7 @@ I organize modules around explicit learning objectives and use consistent weekly
 ## Teaching experience
 
 <div class="timeline-list">
-  <div><strong>Spring 2027, scheduled</strong><span>Instructor, PHPB 8255: Health Communication<br>School of Public Health, Georgia State University<br>Asynchronous online graduate course</span></div>
+  <div><strong>Spring 2027</strong><span> Scheduled Instructor, PHPB 8255: Health Communication<br>School of Public Health, Georgia State University<br> online graduate course</span></div>
   <div><strong>Spring 2016 to Spring 2018</strong><span>Instructor of Record, COMM 101: Fundamentals of Communication<br>Department of Communication, George Mason University<br>Nine sections; mean instructor rating: 4.54 out of 5</span></div>
   <div><strong>Fall 2016</strong><span>Graduate Teaching Assistant, Communication Research Methods<br>Department of Communication, George Mason University</span></div>
 </div>
