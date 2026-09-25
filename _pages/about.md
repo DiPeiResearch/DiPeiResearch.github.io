@@ -9,7 +9,7 @@ classes: wide
 
 I study how people encounter, interpret, and respond to health messages, and how those responses shape tobacco-related beliefs, motivation, behavior, and support for policy. My research combines communication theory, behavioral science, and public health methods, with particular attention to populations that experience disproportionate tobacco-related harms.
 
-<p class="button-row"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> 
+<p class="button-row"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> </p>
 
 ## One research program, two disciplinary lenses
 
