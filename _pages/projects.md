@@ -12,7 +12,7 @@ At Georgia State University, I contribute as a postdoctoral researcher to severa
 <section class="project-card">
   <p class="card-label">NIH-funded research | Randomized trial | Priority populations</p>
   <h2>Communicating about Nicotine and Differential Risks of Tobacco Products in Priority Populations</h2>
-  <p><small><strong>NIH/NCI R01CA239308</strong> | PI: Lucy Popova, PhD | Role: Postdoctoral Researcher</small></p>
+  <p><small><strong>R01CA239308</strong> | PI: Lucy Popova, PhD | Role: Postdoctoral Researcher</small></p>
   <p>A central study within this project is NICER (Nicotine Intervention and Communication for Empowering Reduction), a two-site randomized trial integrating very low nicotine cigarette use with theory-based message exposure. The communication component addresses nicotine-related misperceptions and quit motivation among adults who smoke, including people experiencing serious psychological distress and socioeconomic disadvantage.</p>
   <p><strong>Methods:</strong> Randomized trial, message testing, qualitative coding, and longitudinal behavioral measurement.</p>
   <p><a href="https://doi.org/10.1186/s13063-025-09216-8">Pei, D., Juris, A., Nkansah, P., Thrasher, J. F., Giordano, N. A., Henderson, K. C., ... & Popova, L. (2025). Nicotine Intervention and Communication for Empowering Reduction (NICER): study protocol for a randomized controlled trial among priority populations of people who smoke. Trials, 26(1), 514.</a></p>
@@ -21,14 +21,15 @@ At Georgia State University, I contribute as a postdoctoral researcher to severa
 <section class="project-card">
   <p class="card-label">NCI-funded fellowship research | Digital intervention | Health equity</p>
   <h2>Behavioral Intervention to Mitigate Nicotine Addiction in Digital Environments</h2>
-  <p><small><strong>NIH/NCI R01CA289552</strong> | PI: Lucy Popova, PhD | Role: Postdoctoral Researcher</small></p>
+  <p><small><strong>R01CA289552</strong> | PI: Lucy Popova, PhD | Role: Postdoctoral Researcher</small></p>
   <p>The multisite DoubleTake study develops and evaluates a digital cessation intervention for adults who smoke menthol cigarettes, with particular attention to adults with low socioeconomic status. It integrates formative qualitative research, co-creation, a discrete choice experiment, eye-tracking, and a waitlist-controlled randomized trial to identify content and design features that attract attention, reflect participants’ preferences, and improve short-term cessation outcomes.</p>
   <p><strong>Methods:</strong> Co-creation approach, focus groups, eye-tracking, discrete choice experiments, and a waitlist-controlled randomized trial.</p>
 </section>
 
 <section class="project-card">
-  <p class="card-label">Independent research  | CDC Foundation | Global tobacco control</p>
+  <p class="card-label">CDC Foundation-funded | Global tobacco control</p>
   <h2>Comparative effects of Anti-smoking messages among young adults in China</h2>
+  <p><small><strong>CDC Foundation</strong> | PI: Di Pei, PhD </small></p>
   <p>As principal investigator, I lead a multi-wave randomized study involving 1,541 young adults in China. The study tests anti-smoking video themes and examines psychological distress as a factor in cognitive, emotional, and behavioral responses over time.</p>
   <p><strong>Methods:</strong> Message design, randomized experiment, longitudinal follow-up, content analysis, mediation, and moderation analysis.</p>
 </section>
